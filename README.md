@@ -1,1 +1,2 @@
-# Logic-sim
+0 = Adder
+1 = 
